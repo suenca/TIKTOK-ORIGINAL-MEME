@@ -2,4 +2,4 @@
 
 例/case
 
-(https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/kan.png)
+![看/LOOK](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/kan.png)
