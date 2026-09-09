@@ -1,0 +1,2 @@
+# TIKTOK-ORIGINAL-MEME
+抖音默认表情包
