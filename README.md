@@ -38,7 +38,7 @@
 |32|带无辜|daiwugu.png|![带无辜](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/daiwugu.png)|
 |33|打金牙|dajinya.png|![打金牙](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/dajinya.png)|
 |34|大哭|daku.png|![大哭](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/daku.png)|
-|35|大连|dalian.png|![大连](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/dalian.png)|
+|35|打脸|dalian.png|![大连](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/dalian.png)|
 |36|打灭|damie.png|![打灭](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/damie.png)|
 |37|蛋糕|dangao.png|![蛋糕](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/dangao.png)|
 |38|当机|dangji.png|![当机](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/dangji.png)|
