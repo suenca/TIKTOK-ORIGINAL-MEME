@@ -2,8 +2,6 @@
 
 例/case
 
-| 姓名 | 年龄 | 城市 |
+|表情包名称|文件名|图示|
 |------|------|------|
-| 张三 | 25   |![看/LOOK](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/kan.png)|
-| 李四 | 30   | 上海 |
-![看/LOOK](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/kan.png)
+|看|kan.png|![看/LOOK](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/kan.png)|
