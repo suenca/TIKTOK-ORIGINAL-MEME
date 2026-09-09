@@ -7,7 +7,7 @@
 |1|十八禁|18jin.png|![十八禁](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/18jin.png)|
 |2|六|6.png|![六](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/6.png)|
 |3|六六六|666.png|![六六六](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/666.png)|
-|4|威武|V5.png|![威武](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/V5.png)|
+|4|VIP5|V5.png|![威武](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/V5.png)|
 |5|爱慕|aimu.png|![爱慕](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/aimu.png)|
 |6|安排|anpai.png|![安排](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/anpai.png)|
 |7|暗中观察|anzhongguancha.png|![暗中观察](https://suca.cc/wp-content/uploads/TIKTOK-ORIGINAL-MEME/anzhongguancha.png)|
